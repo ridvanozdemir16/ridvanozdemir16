@@ -5,7 +5,7 @@ I'm interested in Artificial Intelligence, Deep Learning and Image Processing te
 
 
 - 🔭 I’m currently working on **machine learning and image processing**
-- 🌱 I’m currently learning **spring boot, angular and data science.**
+- 🌱 I’m currently learning **spring boot and angular**
 - 📫 You can reach me anytime **ridvanozdemir666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
