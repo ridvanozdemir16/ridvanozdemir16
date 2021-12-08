@@ -1,6 +1,7 @@
 <h1 align="center">Hello there👋, I'm Rıdvan</h1>
 <h3 align="center">I'm senior grade computer engineering student at Dokuz Eylül University.</h3>
 I'm interested in Artificial Intelligence, Deep Learning and Image Processing technologies and I want to pursue a career in this field. During my universityeducation, I had the chance to do many projects with different teams and to participate in international coding competitions, and I had the opportunity to develop many of my skills</br>
+<p>
 
 
 - 🔭 I’m currently working on **machine learning and image processing**
